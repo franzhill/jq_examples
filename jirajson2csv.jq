@@ -12,8 +12,8 @@
 #    curl -u user:passwd -H "Content-Type: application/json" http://localhost:8080/rest/api/2/search | jq -r -f jirajson2csv.jq
 #    cat list_issues.json | jq -f jirajson2csv.jq
 #
-# Copyright
-#    MAAF
+# Auteur
+#    FHI
 
 
 # 1. On commence par un filtrage des propriétés des issues...
